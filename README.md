@@ -3,6 +3,7 @@ Paper, book, and text backlog and notes.
 
 ## Papers
 * [ ] [Google Vizier: A Service for Black-Box Optimization](https://research.google.com/pubs/pub46180.html)
+* [ ] [On Understanding Software Agility](http://www.metaprog.com/downloads/ECO.pdf)
 
 ## Books
 * [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE) **~**

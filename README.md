@@ -7,6 +7,7 @@ Paper, book, and text backlog and notes.
 
 ## Books
 * [x] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
+* [x] [I Can't Make This Up: Life Lessons](https://www.amazon.com/Cant-Make-This-Up-Lessons/dp/1501155571)
 * [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE) **~**
 * [ ] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-osx-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0307887898)
 * [ ] [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?s=books&ie=UTF8&qid=1507015883&sr=1-1&keywords=pixar+book)
